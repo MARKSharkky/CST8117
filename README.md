@@ -1,8 +1,10 @@
 # CST8117 (F2022)
 Lab Collateral for Algonquin IAWD students
 
-Collateral for Lab 2:
+Collateral for Lab 3:
 
-Contains images and base HTML files for Cat Index exercise.
-Images are in a subfolder and you will need to include this subfolder
-in the zip file that you submit for this lab. 
+Contains images and a copy of the current brochure for 
+our Cat Daycare client. This brochure is in a word document
+format to allow for easy transfer - please be careful to make
+all text content web-friendly.
+
