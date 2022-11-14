@@ -1,2 +1,2 @@
-Starter code for Lab 6 the calculator.
+Starter code for Lab 7 on form validation and manipulation.
 
