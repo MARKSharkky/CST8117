@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Mark Kirmidtchiev">
+    <meta name="email" content="kiri0012@algonquinlive.com">
+    <title>Saketa</title>
+    <link href="https://fonts.googleapis.com/css2?family=Martian+Mono:wght@500&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        nav{
+            background-color: none;
+            
+            font-size: 18pt;
+            height: 20pt;
+            text-align: center;
+            padding: 20px;
+            text-decoration: none;
+        }
+        a{
+            text-decoration: none;
+            padding-left: 15px;
+            padding-right: 15px;
+            color: #555;
+        }
+        div{
+            display: flex;
+            justify-content: center;
+        }
+        body{
+            background-image: linear-gradient(to right, #DECBA4, #3E5151);
+            font-family: 'Martian Mono', monospace;
+        }
+        h1{
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div>
+        <img src="Images/logo1.jpg" width="312" height="200" alt="logo">
+        </div>
+    </header>
+    <nav>
+        <a href="">Home</a>
+        <a href="">About</a>
+        <a href="">Products</a>
+    </nav>
+    <h1>Keyboards</h1>
+    <div class="pic">
+    <img src="Images/Keyboard 3.jpg" width="600" height="400">
+    </div>
+</body>
